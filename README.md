@@ -1,8 +1,9 @@
 # zoom_drawer
 
 A new Flutter project.
-
 ## Getting Started
+
+<img src="assets/images/Simulator%20Screen%20Recording%20-%20iPhone%2011%20-%202022-10-12%20at%2013.41.37.gif">
 
 This project is a starting point for a Flutter application.
 
